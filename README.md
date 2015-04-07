@@ -1,5 +1,5 @@
 # Exploratory_Data_Analysis-
-Course Project 1
+Course Project 1
 
 This is my repository for the Coursera Course "Exploratory Data Analysis".
 
